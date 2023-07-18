@@ -21,9 +21,6 @@ I'm currently working on my projects<br>I'm looking to collaborate with other de
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ReyAntonio12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ReyAntonio12&icon=2&color=8)](https://visitcount.itsvg.in)
 
